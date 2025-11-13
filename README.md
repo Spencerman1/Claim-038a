@@ -1,3 +1,5 @@
+By proceeding and reading further, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Claim-038a
 Establishes Eliam™ as the ethical and credential-governance layer that overlays all military cyberspace operations—including U.S. Cyber Command—ensuring behavioral law is enforced across institutional cyber domains without conflict or compromise.
 Spencer Southern 07/13/2025
